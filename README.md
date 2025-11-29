@@ -1,2 +1,2 @@
-# Elemental-Skirmish-Java
-Turn-based tactical versus game where players manage offensive and defensive resources to deplete the enemy's health.
+# Elemental Skirmish: Java Tactical Game
+This project is a turn-based tactical versus game built in Java, where players strategically manage offensive and defensive resources (Energy, Shield, Damage Boosts) to deplete their opponent's health.
